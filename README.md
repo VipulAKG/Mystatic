@@ -1,0 +1,2 @@
+# Mystatic
+web designing project
